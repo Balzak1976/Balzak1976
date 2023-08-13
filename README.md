@@ -1,10 +1,25 @@
-# Привет, меня зовут Максим 👋 
+<h1 align="center">Hi there, I'm <a href="https://skor.nomoredomains.monster/" target="_blank">Max</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Web developer from Russia 🇷🇺</h3>
 
 <br/>
 
-## Мой Стек
+### About Me  
+  
 
-<table border='0'><tr><td valign="top" width="33%">
+- :factory: I’m currently working on [Vodolux-pos](https://github.com/Balzak1976/vodolux-pos.git)
+
+- :green_book: I’m currently learning TypeScript, Mantine UI kit  
+
+- :memo: Know about my experiences [CV](https://career.habr.com/balzak1976)
+
+- 🐱 Fun fact: I have two cats
+
+<br/>  
+
+<h2 align="">My Skill Set</h2>
+
+<table style="border: none"><tr><td valign="top" width="33%">
 
 <div align="center"><h3>Frontend</h3></div>
 
@@ -14,6 +29,7 @@
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="./src/img/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="./src/img/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="./src/img/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://mantine.dev/" target="_blank"><img style="margin: 10px" src="./src/img/mantene-icon.svg" alt="Mantine UI kit" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
@@ -43,7 +59,7 @@
 
 </td></tr></table>  
 
-### :bar_chart: GitHub статистика:
+### :bar_chart: GitHub stats:
 
 <table>
   <tr>
