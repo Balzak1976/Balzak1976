@@ -13,7 +13,7 @@
 
 - :memo: Know about my experiences [CV](https://career.habr.com/balzak1976)
 
-- 🐱 Fun fact: I have two cats
+- 😊  Fun fact: I studied Morse code, but I only remember "SOS"
 
 <br/>  
 
