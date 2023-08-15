@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://skor.nomoredomains.monster/" target="_blank">Max</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Web developer from Russia 🇷🇺</h3>
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&pause=1000&color=0969DA&center=true&vCenter=true&width=435&lines=Web+developer+from+Russia+%F0%9F%87%B7%F0%9F%87%BA" alt="Typing SVG" /></h3>
 
 <br/>
 
