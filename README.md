@@ -4,18 +4,17 @@
 
 <br/>
 
-### About Me  
-  
+### About Me
 
 - :factory: I’m currently working on [Vodolux-pos](https://github.com/Balzak1976/vodolux-pos.git)
 
-- :green_book: I’m currently learning TypeScript, Mantine UI kit  
+- :green_book: I’m currently learning TypeScript, Mantine UI kit
 
 - :memo: Know about my experiences [CV](https://career.habr.com/balzak1976)
 
-- 😊  Fun fact: I studied Morse code, but I only remember "SOS"
+- 😊 Fun fact: I studied Morse code, but I only remember "SOS"
 
-<br/>  
+<br/>
 
 <h2 align="">My Skill Set</h2>
 
@@ -47,7 +46,6 @@
 
 </td><td valign="top" width="33%">
 
-
 <div align="center"><h3>Tools</h3></div>
 
 <div align="">  
@@ -57,7 +55,17 @@
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="./src/img/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
 </div>
 
-</td></tr></table>  
+</td></tr></table>
+
+<br>
+
+## My contacts
+
+<a href="https://t.me/skor_max" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" /></a> | <a href="https://vk.com/skor_max" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/></a> | <a href="mailto:skormaksim@gmail.com" target="_blank"><img src="./src/img/gmail.png" width="40" height="40" alt="gmail"/></a> |
+| :---: | :---: |:---: |
+| Telegram | Vkontakte | Gmail |
+
+<br/>
 
 ### :bar_chart: GitHub stats:
 
