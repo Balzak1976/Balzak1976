@@ -61,7 +61,7 @@
 
 ## My contacts
 
-<a href="https://t.me/skor_max" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" /></a> | <a href="https://vk.com/skor_max" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/></a> | <a href="mailto:skormaksim@gmail.com" target="_blank"><img src="./src/img/gmail.png" width="40" height="40" alt="gmail"/></a> | <a href="https://www.linkedin.com/in/skorm/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" /></a> |
+<a href="https://t.me/skor_max" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" /></a> | <a href="https://vk.com/skor_max" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/></a> | <a href="mailto:skormaksim@gmail.com" target="_blank"><img src="./src/img/gmail.png" width="40" height="40" alt="gmail"/></a> | <a href="https://www.linkedin.com/in/skor-max/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" /></a> |
 | :---: | :---: |:---: | :---: |
 | Telegram | Vkontakte | Gmail | Linkedin |
 
