@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://skor.nomoredomains.monster/" target="_blank">Max</a> 
+<h1 align="center">Hi there, I'm <a href="https://skor.nomoredomains.monster/" target="_blank">Max</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&pause=1000&color=0969DA&center=true&vCenter=true&width=435&lines=Web+developer+from+Russia+%F0%9F%87%B7%F0%9F%87%BA" alt="Typing SVG" /></h3>
 
@@ -61,13 +61,13 @@
 
 ## My contacts
 
-<a href="https://t.me/skor_max" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" /></a> | <a href="https://vk.com/skor_max" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/></a> | <a href="mailto:skormaksim@gmail.com" target="_blank"><img src="./src/img/gmail.png" width="40" height="40" alt="gmail"/></a> |
-| :---: | :---: |:---: |
-| Telegram | Vkontakte | Gmail |
+<a href="https://t.me/skor_max" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" /></a> | <a href="https://vk.com/skor_max" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/></a> | <a href="mailto:skormaksim@gmail.com" target="_blank"><img src="./src/img/gmail.png" width="40" height="40" alt="gmail"/></a> | <a href="https://www.linkedin.com/in/skorm/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" /></a> |
+| :---: | :---: |:---: | :---: |
+| Telegram | Vkontakte | Gmail | Linkedin |
 
 <br/>
 
-### :bar_chart: GitHub stats:
+### :bar_chart: GitHub stats
 
 <table>
   <tr>
